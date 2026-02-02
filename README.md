@@ -1,8 +1,8 @@
 # The Cyber Ledger - Cybersecurity Internship Journey
 
-<p align="center">
-  <img src="https://thecyberledger.in/assets/TheCyberLedgerLogo.png" alt="The Cyber Ledger Logo" width="200">
-</p>
+<div align="center">
+  <img src="https://thecyberledger.in/assets/TheCyberLedgerLogo.png" alt="The Cyber Ledger Logo" width="400">
+</div>
 
 
 This repository serves as a living document of my 12-week journey as a Cybersecurity Intern at **The Cyber Ledger**. It contains my personal notes, lab work, and project code, structured by the core competencies and skills I developed throughout the program. The goal is to translate theoretical knowledge into practical, demonstrable skills.
