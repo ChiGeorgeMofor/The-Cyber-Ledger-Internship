@@ -1,6 +1,6 @@
 # The Cyber Ledger - Cybersecurity Internship Journey
 
-![The Cyber Ledger Banner](https://media.licdn.com/dms/image/D4D16AQH-q4p0m5iI_w/profile-displaybackgroundimage-shrink_350_1400/0/1703666579040?e=1727913600&v=beta&t=kM_P2963mXzYd1KkL9u0v-8mS_dGf_bYlYq8x3T9Z0s)
+![The Cyber Ledger Banner](https://thecyberledger.in/assets/TheCyberLedgerLogo.png)
 
 This repository serves as a living document of my 12-week journey as a Cybersecurity Intern at **The Cyber Ledger**. It contains my personal notes, lab work, and project code, structured by the core competencies and skills I developed throughout the program. The goal is to translate theoretical knowledge into practical, demonstrable skills.
 
